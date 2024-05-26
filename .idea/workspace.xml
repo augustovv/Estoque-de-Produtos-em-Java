@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d87d8eef-98ce-4692-865d-a29dc736d4ff" name="Changes" comment="estoque-de-produtos.java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d87d8eef-98ce-4692-865d-a29dc736d4ff" name="Changes" comment="estoque-de-produtos.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +17,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "augustovv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b8878133-c4eb-4649-bf75-b3ed6e905fbb" />
+        <option name="url" value="git@github.com:augustovv/Estoque-de-produtos-em-Java-.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/EstoqueProdutos/Estoque.java" root0="FORCE_HIGHLIGHTING" />
@@ -78,7 +88,7 @@
       <workItem from="1715895757808" duration="7249000" />
       <workItem from="1715952653209" duration="1173000" />
       <workItem from="1716417651658" duration="83000" />
-      <workItem from="1716741087967" duration="427000" />
+      <workItem from="1716741087967" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="estoque-de-produtos.java">
       <option name="closed" value="true" />
