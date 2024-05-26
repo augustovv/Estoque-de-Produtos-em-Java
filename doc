@@ -1,0 +1,21 @@
+reiRoma -> atributo
+MostrarReiRoma -> função
+
+do{
+            ExibirMenu();
+            choice = input.nextInt();
+            if (choice == 1){
+
+                InserirProduto(produtos);
+
+
+
+
+
+            }
+           MostarProdutos(produtos);
+
+    } while(choice != 0);
+
+
+    //                System.out.println(produtos[i].nomeProduto + "(" +  produtos[i].nomeProduto.length() + ")  é maior que " +  produtos[i+1].nomeProduto + "(" + produtos[i+1].nomeProduto.length() + ")");

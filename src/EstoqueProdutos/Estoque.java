@@ -1,9 +1,8 @@
 package EstoqueProdutos;
 
 import java.util.Objects;
-import java.util.Scanner;
-import java.lang.*;
 import java.util.Random;
+import java.util.Scanner;
 class Produto {
     public int codigoProduto;
     public String nomeProduto;
@@ -245,7 +244,7 @@ public class Estoque {
         InserirProduto(GarrafaCafé, produtos);
     }
     public static void ExibirMenu() {
-        System.out.println(" ");
+        System.out.println(" - - -");
         System.out.println(" [1] Inserir produto");
         System.out.println(" [2] Excluir produto");
         System.out.println(" [3] Alterar dados de um produto");
